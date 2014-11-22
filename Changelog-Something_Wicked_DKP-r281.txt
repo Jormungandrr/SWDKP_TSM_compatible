@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+r281 | mysticalos | 2014-10-25 06:37:07 +0000 (Sat, 25 Oct 2014) | 1 line
+Changed paths:
+   M /trunk/Something_Wicked_Lootmaster_ML/lootmaster_ml_ui.lua
+
+Fix BG taint issued
+------------------------------------------------------------------------
+r280 | mysticalos | 2014-10-15 08:48:20 +0000 (Wed, 15 Oct 2014) | 1 line
+Changed paths:
+   M /trunk/Something_Wicked_DKP.toc
+   M /trunk/Something_Wicked_Lootmaster/Something_Wicked_Lootmaster.toc
+   M /trunk/Something_Wicked_Lootmaster_ML/Something_Wicked_Lootmaster_ML.toc
+
+bump toc, nothing is tested. But easier to test when it's not generating errors in addonloader
+------------------------------------------------------------------------
+r279 | mysticalos | 2014-02-20 02:28:29 +0000 (Thu, 20 Feb 2014) | 1 line
+Changed paths:
+   M /trunk/Something_Wicked_Lootmaster_ML/lootmaster_ml.lua
+
+another whisper fix
+------------------------------------------------------------------------
